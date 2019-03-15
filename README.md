@@ -1,5 +1,6 @@
 Description:
 
+Practiced using React and JSX to create a method that took keys out from the state. For each of the keys, we got the key value pair and using that value, we used a spread operator that created an array of the elements from that value.  Each element of the array is returning an React element which is a div that contains styling based on the key type.  Finally, we combine all these arrays into one using the reduce method and return a concatenation of each element so that it can be displayed on the Burger.js component. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
